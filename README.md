@@ -37,3 +37,9 @@ module.exports = ({ env }) => ({
   // ...
 });
 ```
+
+## Credits
+
+Inspired by:
+ - [strapi-plugin-github-actions](https://github.com/lodi-g/strapi-plugin-github-actions)
+ - [sanity-plugin-dashboard-widget-netlify](https://github.com/sanity-io/sanity-plugin-dashboard-widget-netlify)
