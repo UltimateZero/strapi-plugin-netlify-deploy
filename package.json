@@ -1,0 +1,30 @@
+{
+  "name": "strapi-plugin-netlify-deploy",
+  "version": "0.0.0",
+  "description": "Deploy Netlify sites from Strapi Admin panel",
+  "strapi": {
+    "name": "Netlify Deploy",
+    "icon": "plug",
+    "description": "Deploy Netlify sites"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "author": {
+    "name": "Taha",
+    "email": "mkhejazy@gmail.com",
+    "url": "https://mtaha.dev/"
+  },
+  "maintainers": [
+    {
+      "name": "Taha",
+      "email": "mkhejazy@gmail.com",
+      "url": "https://mtaha.dev/"
+    }
+  ],
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

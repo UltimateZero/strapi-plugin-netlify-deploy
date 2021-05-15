@@ -1,0 +1,10 @@
+{
+    "name": "Netlify Deploy",
+    "title": "Netlify Deploy",
+    "description": "Deploy Netlify sites",
+    "prompt.confirm": "Are you sure you want to deploy?",
+    "sites.text": "Once you have published all the changes, click \"Deploy\" on the sites where you want to see the new changes.",
+    "sites.deploy": "Deploy",
+    "notification.success": "Site is being deployed",
+    "notification.error": "Failed to deploy"
+}

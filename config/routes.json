@@ -1,0 +1,20 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/sites",
+      "handler": "netlify-deploy.sites",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/deploy/:buildHookId",
+      "handler": "netlify-deploy.deploy",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
