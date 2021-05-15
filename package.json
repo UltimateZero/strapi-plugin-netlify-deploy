@@ -1,12 +1,13 @@
 {
   "name": "strapi-plugin-netlify-deploy",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Deploy Netlify sites from Strapi Admin panel",
   "strapi": {
     "name": "Netlify Deploy",
     "icon": "plug",
     "description": "Deploy Netlify sites"
   },
+  "homepage": "https://github.com/UltimateZero/strapi-plugin-netlify-deploy",
   "dependencies": {
     "axios": "^0.21.1"
   },
